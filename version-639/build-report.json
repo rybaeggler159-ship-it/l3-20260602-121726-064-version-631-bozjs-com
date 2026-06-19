@@ -1,0 +1,23 @@
+{
+  "movie_count_from_txt": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "html_pages_with_baidu_script": 2014,
+  "category_pages": 10,
+  "category_card_total": 2000,
+  "category_counts": {
+    "口碑精选": 200,
+    "国产热播": 200,
+    "高分剧场": 200,
+    "悬疑犯罪": 200,
+    "动作冒险": 200,
+    "爱情剧情": 200,
+    "喜剧治愈": 200,
+    "科幻奇幻": 200,
+    "动画综艺": 200,
+    "海外佳片": 200
+  },
+  "logo_ok": true,
+  "old_logo_seen_in_html": false,
+  "player_pages_with_hls_url": 2000
+}
